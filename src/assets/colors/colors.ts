@@ -1,0 +1,21 @@
+const colors = {
+  BLACK: '#000000',
+  WHITE: '#FFFFFF',
+  LIGHT_THEME_COLOR: '#CDBEFA',
+  PURPLE: '#6040C5',
+  GRAY: '#606368',
+  LIGHT_GRAY: '#E0E0E0',
+  THEME_COLOR_400: '#D13F3F',
+  GRAY_700: '#71727A',
+  GRAY_500: '#776F69',
+  ROYAL_BLUE: '#0F77F0',
+  RED: '#FF0000',
+  DARK_GRAY: 'gray',
+  SECONDRY_THEME_COLOR: '#E2667A',
+  THEME_COLOR: '#D10000',
+  LIGHT_BLACK: '#1C1C1C',
+  MORE_LIGHT_BLACK: '#3A3A3A',
+  BLUE: '#87CEEB',
+};
+
+export default colors;
